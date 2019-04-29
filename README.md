@@ -1,2 +1,3 @@
-# PlaneGame
-Playing with Unity3D
+# Plane-Game
+
+Project used to learn and experiment with Unity3D.
