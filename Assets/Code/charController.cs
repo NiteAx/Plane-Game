@@ -49,6 +49,6 @@ public class charController : MonoBehaviour
         }
         transform.position+=transform.forward * Time.deltaTime * speed * speed;
         transform.Rotate(pitch, yaw, -roll);
-        Debug.Log("Rot: "+rot+" Pos: "+pos);
+        //Debug.Log("Rot: "+rot+" Pos: "+pos);
     }
 }
